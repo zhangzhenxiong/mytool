@@ -85,6 +85,17 @@
 			<artifactId>webjars-locator</artifactId>
 			<version>0.30</version>
 		</dependency>
+		<dependency>
+    		<groupId>org.webjars</groupId>
+    		<artifactId>d3js</artifactId>
+    		<version>5.5.0</version>
+		</dependency>
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+      		<artifactId>spring-boot-starter-data-mongodb</artifactId>
+		</dependency>
+
+		
 	</dependencies>
 
 	<build>
